@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: c6117bd4c7f054fe5afba10572b9c78c
+  - enabled: 1
+    path: Assets/Scenes/Story3.unity
+    guid: c90cc8e7c36b9c24fad0169e5db4ef2d
+  - enabled: 1
+    path: Assets/Scenes/PlaceObject.unity
+    guid: 0c8ed02f815b06b4499110e6b5dc79c1
+  - enabled: 1
+    path: Assets/Scenes/chemistry.unity
+    guid: 170e7abd9421644f49ce3182103582dc
+  - enabled: 1
+    path: Assets/Scenes/KClO3.unity
+    guid: a5f15ce8b44decc4290b874eb65937fa
+  - enabled: 1
+    path: Assets/Scenes/findMaterial.unity
+    guid: c5f5f8fa65e34714ab55ffa6260651ba
+  - enabled: 1
+    path: Assets/Scenes/flowerFirework.unity
+    guid: 9b954dbdfda9b4be988d5d5cbe20a654
+  - enabled: 1
+    path: Assets/Scenes/completed.unity
+    guid: aa5969559de9246859c51d4aead40bbf
+  - enabled: 1
+    path: Assets/Scenes/PhysicalVertical.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SelectFirework.unity
+    guid: eae9797a2ff942c4c9c1e0e710dcb5e3
+  - enabled: 1
+    path: Assets/Scenes/ThreadFirework.unity
+    guid: f3dba3506c8c9429e8dc87645e5e285a
+  - enabled: 1
+    path: Assets/Scenes/Bomb.unity
+    guid: 10cab204d51066144bb6dc02fe958876
+  - enabled: 1
+    path: Assets/Scenes/GiftFirework.unity
+    guid: 2a0dbd8c129de4a99aad02563bbb8bfa
+  - enabled: 1
+    path: Assets/Scenes/PlaceFirework.unity
+    guid: d5d8e1de2dcfb804aadf6ad809929793
+  - enabled: 1
+    path: Assets/Scenes/PlaceItems.unity
+    guid: 4ff636980030eb04aae5b0395c4b3da1
+  - enabled: 1
+    path: Assets/Scenes/Recording.unity
+    guid: 4b8314b4666d1434bb5212a5b80dbdbf
+  - enabled: 1
+    path: Assets/Scenes/CompletedGift.unity
+    guid: 0e7fa452e3931374080cdc0b51df7927
+  - enabled: 1
+    path: Assets/Scenes/QrCodeForUpload.unity
+    guid: 11de520e1d010fc4a8204d20e7070aff
+  - enabled: 1
+    path: Assets/Scenes/QrCodeForDownload.unity
+    guid: dd3068a2b441fea469a735ea65199579
+  - enabled: 0
+    path: Assets/SandBox/Dyz/Scenes/DtoTest.unity
+    guid: 7ac2488b23aaf894abd9c7faf5857c88
+  - enabled: 1
+    path: Assets/Scenes/AddImageFirework.unity
+    guid: 84a92743d04d6e14b929846f41aa8ca5
+  - enabled: 1
+    path: Assets/Scenes/Download.unity
+    guid: d004baa781ad6174fbeb2414021b3245
+  - enabled: 1
+    path: Assets/Scenes/ChemistryAR.unity
+    guid: 22754e5b7e774ce4e812253d601ee317
+  - enabled: 1
+    path: Assets/Scenes/AudioTest.unity
+    guid: 9df2b0867854e42efa6ee644ce3531d0
+  - enabled: 1
+    path: Assets/Scenes/Audio.unity
+    guid: 4c495a7498571420cb8a5df6491260e2
+  - enabled: 1
+    path: Assets/Scenes/Scan.unity
+    guid: c3ab20f6dcdb24445a9ddb8b1b0eb411
+  - enabled: 1
+    path: Assets/Scenes/Story.unity
+    guid: 8b4c9951f54aef54d8530dd632de56b1
+  - enabled: 1
+    path: Assets/Scenes/Story2.unity
+    guid: 315a39e7a34f5624783f633aaf44a56c
+  - enabled: 1
+    path: Assets/Scenes/BallFirework.unity
+    guid: fba2e305da4a54196bd8ea2926e9f4fa
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d3884873aff37ba4bb2470d171d70c24,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 21698fffb7cf20a49837b059c420bd33,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 99bae4a65ff66b0459c211ae4afd2b59,
+      type: 2}
